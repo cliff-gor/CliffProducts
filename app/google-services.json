@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831003745642",
+    "project_id": "pezeshaproducts-cliffgor",
+    "storage_bucket": "pezeshaproducts-cliffgor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831003745642:android:f6611e0460dbad881cd913",
+        "android_client_info": {
+          "package_name": "com.cliffgor.pezeshaproducts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKC81nhmBZdkxHyNX4RWN_XjoFNTrg0jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
