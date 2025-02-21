@@ -1,4 +1,4 @@
-package com.cliffgor.pezeshaproducts
+package com.cliffgor.pezeshaproducts.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
