@@ -4,6 +4,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.cliffgor.pezeshaproducts.data.model.Product
 import com.cliffgor.pezeshaproducts.data.repository.ProductRepository
+import com.cliffgor.pezeshaproducts.util.Resource
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
