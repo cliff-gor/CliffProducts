@@ -118,6 +118,8 @@ dependencies {
     // Coil
     implementation("io.coil-kt:coil-compose:2.2.2")
 
+    implementation("androidx.hilt:hilt-navigation-compose:1.0.0")
+
 
 }
 
